@@ -228,64 +228,7 @@ AtlasVanguard follows a research-first and transparency-first ethic.
 
 # SIG Structure
 
-## SIG-Quantitative Research
-
-Responsible for the initiative’s core quantitative reasoning.
-
-### Scope
-- Definition of quantitative research standards
-- Research methodology consistency
-- Review of analytical approaches
-- Internal validation of statistical reasoning
-
-### Purpose
-This SIG ensures that AtlasVanguard uses sound and consistent quantitative thinking.
-
----
-
-## SIG-Market Structure
-
-Responsible for the study of Moroccan market structure and market behavior.
-
-### Scope
-- Market organization and evolution
-- Interactions between market segments
-- Structural changes in Moroccan financial markets
-- Research on market behavior under new instruments
-
-### Purpose
-This SIG focuses on how the market functions as a system.
-
----
-
-## SIG-Systemic Risk
-
-Responsible for research on financial stability and stress behavior.
-
-### Scope
-- Financial stress interpretation
-- Propagation of instability across markets
-- Risk-oriented research questions
-- Structural resilience and fragility studies
-
-### Purpose
-This SIG focuses on understanding instability, concentration, and systemic behavior.
-
----
-
-## SIG-Data & Infrastructure
-
-Responsible for data governance and operational reliability.
-
-### Scope
-- Data sourcing standards
-- Data quality expectations
-- Canonical representation of market data
-- Data lifecycle governance
-- Validation and consistency policies
-
-### Purpose
-This SIG ensures that AtlasVanguard has reliable and traceable data foundations.
+- [SIGS.md](SIGS.md)
 
 ---
 
