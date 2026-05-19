@@ -22,11 +22,11 @@ SIGs exist to:
 
 | SIG | Focus Area | Repository Location |
 |-----|------------|---------------------|
-| SIG-QUANT | Quantitative models, returns, volatility, beta, exposure analysis | `sigs/sig-quant/` |
-| SIG-MARKET-STRUCTURE | Spot vs futures interaction, MASI/sector structure, price discovery | `sigs/sig-market-structure/` |
-| SIG-RISK | Systemic risk, stress propagation, correlation breakdown, regime behavior | `sigs/sig-risk/` |
-| SIG-DATA-INFRASTRUCTURE | Data ingestion, normalization, dataset integrity, internal data APIs | `sigs/sig-data-infrastructure/` |
-| SIG-OBSERVABILITY-COMMUNICATION | Dashboards, visualization, reporting layer, communication of market signals | `sigs/sig-observability-communication/` |
+| [SIG-QUANT](./sigs/sig-quant/) | Quantitative models, returns, volatility, beta, exposure analysis | `sigs/sig-quant/` |
+| [SIG-MARKET-STRUCTURE](./sigs/sig-market-structure/) | Spot vs futures interaction, MASI/sector structure, price discovery | `sigs/sig-market-structure/` |
+| [SIG-RISK](./sigs/sig-risk/) | Systemic risk, stress propagation, correlation breakdown, regime behavior | `sigs/sig-risk/` |
+| [SIG-DATA-INFRASTRUCTURE](./sigs/sig-data-infrastructure/) | Data ingestion, normalization, dataset integrity, internal data APIs | `sigs/sig-data-infrastructure/` |
+| [SIG-OBSERVABILITY-COMMUNICATION](./sigs/sig-observability-communication/) | Dashboards, visualization, reporting layer, communication of market signals | `sigs/sig-observability-communication/` |
 
 ---
 
