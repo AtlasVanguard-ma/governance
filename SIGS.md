@@ -1,8 +1,8 @@
 # SIGs — AtlasVanguard
 
-This document defines the current Special Interest Groups (SIGs) within AtlasVanguard.
+This document defines the Special Interest Groups (SIGs) within AtlasVanguard.
 
-SIGs are the primary governance and coordination units of the initiative. Each SIG represents a long-lived domain of responsibility and must operate under the governance model defined in `GOVERNANCE.md`.
+SIGs are the primary governance and coordination units of the initiative. Each SIG represents a long-lived domain of responsibility within the AtlasVanguard system and operates under the governance framework defined in `GOVERNANCE.md`.
 
 ---
 
@@ -10,50 +10,70 @@ SIGs are the primary governance and coordination units of the initiative. Each S
 
 SIGs exist to:
 
-- Organize research and responsibilities by domain
-- Enable distributed collaboration
-- Maintain clear ownership of methodologies and outputs
-- Ensure traceability of decisions via RFCs
-- Support scalable contribution from academic and institutional participants
+- Structure collaboration across distinct domains of the system
+- Distribute ownership of research, methodology, and implementation
+- Ensure consistency and traceability of decisions via RFCs
+- Enable scalable participation across technical and non-technical contributors
+- Maintain clear boundaries between domains of responsibility
 
 ---
 
 ## Current SIGs
-- 
-- 
-- 
-- 
+
+| SIG | Focus Area | Repository Location |
+|-----|------------|---------------------|
+| SIG-QUANT | Quantitative models, returns, volatility, beta, exposure analysis | `sigs/sig-quant/` |
+| SIG-MARKET-STRUCTURE | Spot vs futures interaction, MASI/sector structure, price discovery | `sigs/sig-market-structure/` |
+| SIG-RISK | Systemic risk, stress propagation, correlation breakdown, regime behavior | `sigs/sig-risk/` |
+| SIG-DATA-INFRASTRUCTURE | Data ingestion, normalization, dataset integrity, internal data APIs | `sigs/sig-data-infrastructure/` |
+| SIG-OBSERVABILITY-COMMUNICATION | Dashboards, visualization, reporting layer, communication of market signals | `sigs/sig-observability-communication/` |
+
+---
 
 ## SIG Coordination Model
 
-SIGs are expected to collaborate when domains overlap.
+SIGs operate independently within their defined scope but are expected to coordinate when responsibilities overlap.
 
-Typical coordination patterns include:
+Cross-SIG coordination typically occurs through:
+
+- RFC-based proposals
+- Explicit interface definitions between domains
+- Steering Committee escalation when necessary
+
+No SIG has authority outside its defined scope.
 
 ---
 
 ## SIG Governance Rules
 
-- Each SIG must have a designated lead
-- Each SIG must maintain clear scope boundaries
-- Each SIG must document decisions and rationale
-- Each SIG must use RFCs for meaningful changes
-- SIGs cannot override governance independently
-- Cross-SIG conflicts are escalated to the Steering Committee
+Each SIG must adhere to the following principles:
+
+- Maintain a clearly defined scope and responsibility boundary
+- Designate at least one maintainer or lead
+- Document decisions, assumptions, and rationale where relevant
+- Use the RFC process for any meaningful structural or methodological change
+- Ensure reproducibility and traceability of domain decisions
+- Respect governance constraints defined at the system level
+
+SIGs cannot:
+
+- Override governance rules defined in `GOVERNANCE.md`
+- Modify system-wide conventions unilaterally
+- Resolve cross-domain conflicts without coordination or escalation
 
 ---
 
 ## SIG Lifecycle
 
-SIGs may be:
+SIGs may evolve over time through governance review:
 
-- Created when a new domain of responsibility emerges
-- Modified when scope evolves
-- Split when scope becomes too large
-- Merged when overlap becomes significant
-- Retired when no longer relevant
+- **Creation** — when a new domain of responsibility is identified
+- **Modification** — when scope or responsibilities evolve
+- **Split** — when a domain becomes too large or heterogeneous
+- **Merge** — when significant overlap is identified
+- **Retirement** — when the domain is no longer active or required
 
-All lifecycle changes require governance approval.
+All lifecycle changes must follow the RFC process and Steering Committee review when applicable.
 
 ---
 
@@ -61,9 +81,10 @@ All lifecycle changes require governance approval.
 
 The SIG system is designed to:
 
-- Enable scalable research collaboration
-- Maintain institutional clarity
-- Avoid ambiguity in ownership
-- Support academic and financial research standards
-- Allow future expansion into institutional partnerships
+- Enable structured, scalable collaboration across domains
+- Ensure clear ownership of analytical and engineering responsibilities
+- Prevent ambiguity in methodological and system definitions
+- Support reproducibility of financial and quantitative research
+- Provide a governance foundation compatible with institutional environments
 
+---
