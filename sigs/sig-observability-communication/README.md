@@ -1,4 +1,4 @@
-# SIG-RISK
+# SIG-OBSERVABILITY-COMMUNICATION
 
 This SIG is part of the AtlasVanguard governance system.
 

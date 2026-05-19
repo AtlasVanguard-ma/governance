@@ -1,4 +1,4 @@
-# SIG-RISK
+# SIG-MARKET-STRUCTURE
 
 This SIG is part of the AtlasVanguard governance system.
 

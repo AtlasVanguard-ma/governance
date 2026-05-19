@@ -1,4 +1,4 @@
-# SIG-RISK
+# SIG-DATA-INFRASTRUCTURE
 
 This SIG is part of the AtlasVanguard governance system.
 
