@@ -45,9 +45,9 @@ The Steering Committee is the highest-level governance body of AtlasVanguard.
 ### Responsibilities
 
 - Set the overall direction of the initiative
-- Approve the creation, modification, or retirement of SIGs
+- Approve the creation, modification, or retirement of [SIGs](https://github.com/AtlasVanguard-ma/governance/blob/main/SIGS.md)
 - Approve major governance changes
-- Resolve cross-SIG conflicts
+- Resolve cross-[SIG](https://github.com/AtlasVanguard-ma/governance/blob/main/SIGS.md) conflicts
 - Maintain organizational continuity
 - Ensure the initiative remains aligned with its mission
 
@@ -77,6 +77,8 @@ SIGs are used to organize work by domain, responsibility, and decision-making sc
 - Each SIG must keep a traceable decision history
 - Each SIG must coordinate with other SIGs when work overlaps
 - SIGs operate under the overall direction of the Steering Committee
+
+Read more at [SIGs](https://github.com/AtlasVanguard-ma/governance/blob/main/SIGS.md)
 
 ### SIG Responsibilities
 
@@ -226,24 +228,10 @@ AtlasVanguard follows a research-first and transparency-first ethic.
 
 ---
 
-# SIG Structure
+# Special Interest groups(SIGs) Structure
 
 - [SIGS.md](SIGS.md)
 
----
-
-## SIG-Visualization & Communication
-
-Responsible for how AtlasVanguard communicates research and observability results.
-
-### Scope
-- Dashboard standards
-- Research reporting
-- Communicating findings clearly
-- Improving interpretability for technical and non-technical audiences
-
-### Purpose
-This SIG ensures that AtlasVanguard outputs are understandable, accessible, and well presented.
 
 ---
 
