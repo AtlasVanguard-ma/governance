@@ -1,4 +1,4 @@
-# SIGs — AtlasVanguard
+# Special Interest Groups (SIGs) — AtlasVanguard
 
 This document defines the Special Interest Groups (SIGs) within AtlasVanguard.
 
